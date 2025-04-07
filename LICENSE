@@ -1,0 +1,38 @@
+LRA1 Bootloader Binary License / LRA1 ブートローダー バイナリライセンス
+=====================================================================
+
+Copyright (c) 2025 i2-electronics,Inc.  
+All rights reserved.
+
+著作権 (c) 2025  i2-electronics,Inc.  
+無断複製・改変を禁ず。
+
+--------------------------------------------------
+1. Redistribution / 再配布について
+
+- Redistribution and use of the original binary in its unmodified form is permitted.
+- オリジナルのバイナリを改変せずに再配布および使用することを許可します。
+  
+--------------------------------------------------
+2. Prohibition on Modification / 改変の禁止
+
+- Modification, reverse engineering, decompilation, disassembly, or creation of derivative works based on this binary is strictly prohibited.
+- 本バイナリの改変、逆コンパイル、逆アセンブル、またはこれに基づく派生物の作成を一切禁止します。
+
+--------------------------------------------------
+3. Source Code / ソースコードについて
+
+- This binary is provided in binary format only, and the source code is not made available.
+- 本バイナリはバイナリ形式のみで提供され、ソースコードは公開されません。
+
+--------------------------------------------------
+4. Warranty Disclaimer / 免責事項
+
+- This binary is provided "as is" without any express or implied warranty.  
+  In no event shall the copyright holder be liable for any damages arising from the use or distribution of this binary.
+- 本バイナリは「現状有姿」で提供され、明示または黙示のいかなる保証もありません。  
+  本バイナリの使用または再配布に起因するいかなる損害についても、著作権者は一切責任を負いません。
+
+--------------------------------------------------
+By using, copying, or redistributing this binary, you agree to the above terms.
+本バイナリを使用、コピー、または再配布することにより、上記の条件に同意したものとみなされます。
