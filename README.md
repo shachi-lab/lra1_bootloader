@@ -32,11 +32,19 @@
 - このブートローダーは、ユーザーの利便性向上のために公開されています。  
   **使用は自己責任で行ってください。**
 
+- このリポジトリに含まれるファイルおよび情報は、LRA1デバイスのファームウェアアップデートおよびブートローダー復旧に必要な情報を提供することを目的としています。  
+
+- 適切な書き込みツールと回路構成で、安全かつ確実に書き込みを行ってください。
+
 ## 免責事項
 - このブートローダーの書き込みよって生じたあらゆる不具合やデバイスの破損に関しては、著作権者ならびに製作者は一切の保証を行いませんので、あらかじめご了承ください。
 
 ## 著作権
-- 著作権は **i2-electronics,Inc.** に帰属します。
+ - Copyright (c) 2023-2025 Shachi-lab  
+All rights reserved.
+
+このソフトウェアはLRA1モジュール用に開発され、使用許諾契約に基づきi2-electronicsに提供されました。  
+This software was originally developed for the LRA1 module, and provided to i2-electronics under a usage agreement.
 
 ## ライセンス
 - このブートローダーは、**バイナリのみの提供**となります。  
@@ -45,4 +53,30 @@
 
 ---
 
-このリポジトリに含まれるファイルおよび情報は、LRA1デバイスのファームウェアアップデートおよびブートローダー復旧に必要な情報を提供することを目的としています。適切な書き込みツールと回路構成で、安全かつ確実に書き込みを行ってください。
+## 📡 このプロジェクトについて
+
+このリポジトリは、個人プロジェクト「[しゃちらぼ｜Shachi-lab](https://shachi-lab.com)」で進めている  
+LoRaモジュール「LRA1」に関する開発・実験の一部です。
+
+ブログでは、LRA1の使い方やTipsに加えて、  
+AIアシスタント「ろらたん」が技術と遊び心を交えながら解説してくれます。
+
+🎀「正式には“しゃちらぼ”だけど、“シャチラボ”でもいいよ〜♪」
+
+## 📡 About this project (English)
+
+This repository is part of a personal project from [Shachi-lab](https://shachi-lab.com),  
+which focuses on the development and experimentation of the Japanese LoRa module “LRA1”.
+
+The blog introduces how to use LRA1, practical tips, and fun insights —  
+with the help of an AI assistant named *Roratan* who adds a friendly and playful touch.
+
+🎀 “It's officially called ‘Shachi-lab’, but feel free to call it ‘Shachilab’ too!”
+
+## 🔗 関連リンク
+
+- 📘 [しゃちらぼ｜Shachi-lab 技術ブログ](https://blog.shachi-lab.com)
+- 🛠 LRA1関連の記事一覧：https://blog.shachi-lab.com/tag/lra1
+- 🐦 X（旧Twitter）： [@shachi_lab](https://x.com/shachi_lab)
+- 🐙 GitHub：[@shachi-lab](https://github.com/shachi-lab)
+- 📗 Qiita： [@shachi-lab](https://qiita.com/shachi-lab)
